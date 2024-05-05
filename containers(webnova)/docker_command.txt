@@ -1,0 +1,2 @@
+docker run -it --name webnova --mount "type=bind,src=$(pwd)/containers(webnova)/input_queue,target=/home/user1/input_queue" --mount "type=bind,src=$(pwd)/containers(webnova)/output_queue,target=/home/user1/output_queue" --mount "type=bind,src=$(pwd)/containers(webnova)/mission_config,target=/home/user1/mission_config" webnova_base bash
+
