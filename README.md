@@ -26,6 +26,7 @@
 
 # Team
 
-  Phankuri Gupta
-  Sathya Krishansamy
+  ## Phankuri Gupta
+  
+  ## Sathya Krishansamy
   
