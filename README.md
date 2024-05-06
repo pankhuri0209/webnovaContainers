@@ -21,7 +21,13 @@
      The differential imagery and the length of the differences in the objects detected - the difference in number  of containers, 
      is reported in the output directory.
 
+# The presentation can be found in 
 
+https://github.com/pankhuri0209/webnovaContainers/edit/main/Container-WebNova.pdf
+
+# Instructions to run 
+
+Please follow the readme.txt in the output_queue directory
 
 
 # Team
