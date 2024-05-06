@@ -1,6 +1,5 @@
 # Container CV WebNova
 
-
 # WebNova ContainerChallenge
 
 ## The objective:
@@ -21,9 +20,10 @@
      The differential imagery and the length of the differences in the objects detected - the difference in number  of containers, 
      is reported in the output directory.
 
-# The presentation can be found in 
+# The presentation deck: https://github.com/pankhuri0209/webnovaContainers/blob/main/containers(webnova)/Container-WebNova.pdf
 
-https://github.com/pankhuri0209/webnovaContainers/blob/main/containers(webnova)/Container-WebNova.pdf
+# The video: https://www.youtube.com/watch?v=N4Zmu3sDMEc
+
 
 # Instructions to run 
 
