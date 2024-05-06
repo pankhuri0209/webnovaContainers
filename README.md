@@ -1,7 +1,7 @@
 # Container CV WebNova
 
 
-# WebVonca ContainerChallenge
+# WebNova ContainerChallenge
 
 ## The objective:
 
