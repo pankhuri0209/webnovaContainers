@@ -23,7 +23,7 @@
 
 # The presentation can be found in 
 
-https://github.com/pankhuri0209/webnovaContainers/edit/main/Container-WebNova.pdf
+https://github.com/pankhuri0209/webnovaContainers/blob/main/containers(webnova)/Container-WebNova.pdf
 
 # Instructions to run 
 
