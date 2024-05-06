@@ -1,1 +1,31 @@
-# webnovaContainers
+# Container CV WebNova
+
+
+# WebVonca ContainerChallenge
+
+## The objective:
+
+      To count the differences in the containers   between 2 images of the same Latitude/Longitude
+
+
+## Solution:
+     
+     The 2 images are run through the sift detect and compare.  
+     
+     Then, they are fed through the BruteForce compare ( BFCompare ) for matching. 
+
+     The distance difference against a threshold is used to calculate the differences. 
+
+## Output:
+
+     The differential imagery and the length of the differences in the objects detected - the difference in number  of containers, 
+     is reported in the output directory.
+
+
+
+
+# Team
+
+  Phankuri Gupta
+  Sathya Krishansamy
+  
