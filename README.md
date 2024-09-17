@@ -34,7 +34,7 @@ Please follow the readme.txt in the output_queue directory
 
 # Team
 
-  ## Phankuri Gupta
+  ## Pankuri Gupta
   
   ## Sathya Krishansamy
   
